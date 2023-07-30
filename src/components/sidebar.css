@@ -1,0 +1,17 @@
+.sections{
+    border-right: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.section-links{
+    text-decoration: none;
+    border-bottom: 2px solid black;
+    flex:1;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
